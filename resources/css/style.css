@@ -1,6 +1,6 @@
 body {
   background-color: black;
-  font-family: Verdana;
+  font-family: Verdana, sans-serif;
   text-align: center;
 }
 
@@ -13,6 +13,7 @@ h1 {
 h2 {
   font-size: 21px;
   color: Gray;
+  font-weight: normal;
 }
 
 h3 {
