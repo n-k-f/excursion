@@ -1,14 +1,31 @@
-h1 {
+body {
+  background-color: black;
   font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
   font-weight: normal;
   font-size: 50px;
   color: White;
-  vertical-align: center;
 }
 
 h2 {
-  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+h3 {
   font-size: 16px;
   color: Aquamarine;
-  text-align: center;
+}
+
+video {
+  object-fit: contain;
+  vertical-align: center;
+}
+
+#yourguide {
+  font-weight: 300;
+  font-size: 42px;
 }
